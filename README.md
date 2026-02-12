@@ -1,6 +1,6 @@
 # MITOCHONDRIONOS. <br /><br />
 
-![GitHub Logo](Scrshot.png)
+![GitHub Logo](Captura de tela 2026-02-12 155815.png)
 ![GitHub Logo](Scrshot2.png)
 ![GitHub Logo](Scrshot4.png)
 ![GitHub Logo](Scrshot5.png)
