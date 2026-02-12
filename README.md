@@ -1,35 +1,14 @@
 # MITOCHONDRIONOS. <br /><br />
 
-![GitHub Logo](Captura de tela 2026-02-12 155815.png)
-![GitHub Logo](Scrshot2.png)
-![GitHub Logo](Scrshot4.png)
-![GitHub Logo](Scrshot5.png)
-![GitHub Logo](Scrshot3.png)
 
-# 🛠️ Current Progress
-- ✅ **BIOS Parameter Block**
-- ✅ **Extended Boot Record**
-- ✅ **FAT12 Filesystem**
-- ✅ **Bitmap Fonts**
-- ✅ **Shell**
-- ✅ **Running programs**
-- 🚧 **Memory Management**
+### 🌟 MitochondrionOS 1.0
+Is some breaked <br />
 
-# 🚀 Future Ideas
-- **C Library**
+### 🌟 MitochondrionOS 2.0
+Have a comand for close programs [B] <br />
 
-# ⚙️ Building
-### 🧰 Necessary Components
-nasm
-### 📄 Compiling
-`chmod +x ./make.sh` <br />
-`./make.sh` 
-### 🚀 Running
-use `qemu-system-i386 -drive format=raw,file="AcidOS.img"`
-
-# 🤝 Contribute
-For those who want to contribute to AcidOS, you can help me starring/forking this project or help with code using pull requests.
-
-# 🌟 Credits
-Nikitpad - Originally made the cube <br />
-Nanochess - Made the CubicDOOM
+# HOW TO USE
+B: close programs
+N: notepad
+C: Prompt comand
+M: Start menu
