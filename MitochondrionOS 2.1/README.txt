@@ -3,4 +3,4 @@
 #####   #####  a cursor
 #####   #####
 
-MITOCHONDRION OS 2.0
+MITOCHONDRION OS 2.1
