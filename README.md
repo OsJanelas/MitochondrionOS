@@ -15,6 +15,10 @@ Have a comand for close programs [B] <br />
 We added a glitched cursor <br />
 <p align="center"><img src="Screenshots/GUI2.1.png"></p>
 
+### 🌟 MitochondrionOS 3.0
+We added a click system <br />
+<p align="center"><img src="Screenshots/GUI3.0.png"></p>
+
 ## HOW TO USE
 B: close programs
 N: notepad
